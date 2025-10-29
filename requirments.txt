@@ -1,0 +1,7 @@
+celery
+django-celery
+django-celery-results
+django-decouple
+redis
+selenium
+webdriver-manager
